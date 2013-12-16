@@ -1,0 +1,222 @@
+body {
+width: 100%;
+height: 100%;
+margin: 0;
+padding: 0;
+background-color: #F0F0F0;
+font-family: 'Tangerine',serif;
+font-size: 35px;
+}
+
+#header {
+	background-color: #e00000;
+	padding: 80px 0;
+}
+
+#logo {
+	position: absolute;
+	top: -20px;
+	left: 100px;
+}
+
+#formular {
+	width: 800px;
+	margin: 0 auto;
+	border-style: solid;
+	border-width: 1px;
+	border-right-color: #c0c0c0;
+	border-left-color: #c0c0c0;
+	border-top-color: #f0f0f0;
+	border-bottom-color: #f0f0f0;
+	padding: 50px;
+}
+
+#btn {
+	width:110px;
+	margin:0px auto;
+	border:0px solid blue;
+}
+
+#button {
+	position: absolute;
+}
+
+#snowflake1 {
+	position: absolute;	
+	width: 150px;
+	height: 140px;
+	left: 420px;
+
+}
+
+#snowflake2 {
+	position: absolute;
+	width: 110px;
+	height:100px;
+	left:600px;
+	top: -30px;
+
+}
+
+#snowflake3 {
+	position: absolute;
+	width: 120px;
+	height:110px;
+	left: 750px;
+	top:10px;
+}
+
+#snowflake4 {
+	position: absolute;
+	width: 110px;
+	height:100px;
+	left: 610px;
+	top:70px;
+}
+
+#snowflake5 {
+	position: absolute;
+	width: 90px;
+	height:80px;
+	left: 830px;
+	top:70px;
+}
+
+#snowflake6 {
+	position: absolute;
+	width: 130px;
+	height:120px;
+	left: 950px;
+	top:40px;
+}
+
+#snowflake7 {
+	position: absolute;
+	width: 100px;
+	height: 90px;
+	left: 110px;
+	top: -30px;
+}
+
+#snowflake8 {
+	position: absolute;
+	width: 120px;
+	height: 110px;
+	left: -10px;
+	top:10px;
+
+}
+
+#snowflake9 {
+	position: absolute;
+	width: 120px;
+	height: 110px;
+	left: 1090px;
+	top:-20px;
+
+}
+#snowflake10 {
+	position: absolute;
+	width: 120px;
+	height: 110px;
+	left: 330px;
+	top:-50px;
+
+}
+#footer {
+	background-color: #e00000;
+	height: 120px;
+}
+
+#logo_footer {
+	position: absolute;
+	left: 100px;
+}
+
+
+#snowflake11 {
+	position: absolute;	
+	width: 90px;
+	height: 80px;
+	left: 420px;
+	bottom: 0px;
+}
+
+#snowflake12 {
+	position: absolute;
+	width: 50px;
+	height: 40px;
+	left: 600px;
+}
+
+#snowflake13 {
+	position: absolute;
+	width: 60px;
+	height: 50px;
+	left: 750px;
+	top: 10px;
+}
+
+#snowflake14 {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 650px;
+	top: 70px;
+	bottom: 50px;
+}
+
+#snowflake15 {
+	position: absolute;
+	width: 30px;
+	height: 20px;
+	left: 830px;
+	top: 70px;
+}
+
+#snowflake16 {
+	position: absolute;
+	width: 70px;
+	height: 60px;
+	left: 950px;
+	top: 40px;
+}
+
+#snowflake17 {
+	position: absolute;
+	width: 40px;
+	height: 30px;
+	left: 10px;
+	top: 0px;
+}
+
+#snowflake18 {
+	position: absolute;
+	width: 60px;
+	height: 50px;
+	top:10px;
+}
+
+#snowflake19 {
+	position: absolute;
+	width: 60px;
+	height: 50px;
+	left: 1090px;
+
+}
+
+#snowflake20 {
+	position: absolute;
+	width: 60px;
+	height: 50px;
+	left: 330px;
+}
+
+#button {
+	background-color: #e00000;
+	width: 110px;
+	height: 40px;
+	border:0px;
+}
+
+.response { font-size:30px; font-align:center; font-weight:bold; }
